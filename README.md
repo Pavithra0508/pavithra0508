@@ -9,9 +9,10 @@
 
 ### 👩‍💻 About Me
 - 👯 Looking to collaborate on **Frontend Web Development Projects**
-- 🤝 Currently learning & need help with **React**
+- 🌱 Actively improving my HTML, CSS, and JavaScript skills
+- 🎨 Love turning ideas into responsive and interactive user interfaces
 - 👨‍💻 Check out my projects:  
-  👉 <a href="https://pavithra-portfoliooo.netlify.app/" target="_blank">My Portfolio</a>
+  👉 <a href="https://github.com/Pavithra0508/Myprofile" target="_blank">My Portfolio</a>
 - 📫 Reach me at: **pavithrac.offl@gmail.com**
 
 ---
