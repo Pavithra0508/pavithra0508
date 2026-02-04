@@ -12,7 +12,7 @@
 - 🌱 Actively improving my HTML, CSS, and JavaScript skills
 - 🎨 Love turning ideas into responsive and interactive user interfaces
 - 👨‍💻 Check out my projects:  
-  👉 <a href="https://github.com/Pavithra0508/Myprofile" target="_blank">My Portfolio</a>
+  👉 <a href="pavithra0508.github.io/PORTFOLIO/ " target="_blank">My Portfolio</a>
 - 📫 Reach me at: **pavithrac.offl@gmail.com**
 
 ---
