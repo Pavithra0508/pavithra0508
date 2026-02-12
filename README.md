@@ -76,6 +76,10 @@
   <a href="https://kaggle.com/pavithra582" target="_blank">
     <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/kaggle.svg" height="30" width="40"/>
   </a>
+  <a href="https://leetcode.com/u/x9qIGmIoT8/" target="_blank">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/leetcode/leetcode-original.svg" height="30" width="40"/>
+</a>
+
 </p>
 
 ---
