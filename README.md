@@ -8,7 +8,7 @@
 ---
 
 ### 👩‍💻 About Me
-- 👯 Looking to collaborate on **Frontend Web Development Projects**
+- 👯 Looking to collaborate on **Frontend Web Development and Python Projects**
 - 🌱 Actively improving my Python, HTML and JavaScript skills
 - 🎨 Love turning ideas into responsive and interactive user interfaces
 - 👨‍💻👉 <a href="https://pavithra0508.github.io/PORTFOLIO/  " target="_blank">My Portfolio</a>
