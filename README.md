@@ -11,7 +11,7 @@
 - 👯 Looking to collaborate on **Frontend Web Development and Python Projects**
 - 🌱 Actively improving my Python, HTML and JavaScript skills
 - 🎨 Love turning ideas into responsive and interactive user interfaces
-- 👨‍💻👉 <a href="https://pavithra0508.github.io/PORTFOLIO/  " target="_blank">My Portfolio</a>
+- 👨‍💻👉 <a href="https://portfolio-pavithra.onrender.com "target="_blank">My Portfolio</a>
 - 📫 Reach me at: **pavithrac.offl@gmail.com**
 
 ---
